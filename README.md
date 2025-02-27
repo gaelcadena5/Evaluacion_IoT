@@ -5,7 +5,7 @@
 ## Universidad Modelo  
 *Carrera:* Ingeniería en Desarrollo de Tecnología y Software  
 *Materia:* Internet de las Cosas  
-*Alumno:* Joaquín Casillas González  
+*Alumno:* Gael Alberto Cadena Cortés 
 
 ---
 
